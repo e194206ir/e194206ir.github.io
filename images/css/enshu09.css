@@ -1,0 +1,18 @@
+h1.blackcolor{
+    color:cornsilk;
+    font-family:"Impact";
+    text-align: center;
+    background-color: black;
+}
+
+h2.chartreuse{
+    color:cornsilk;
+    font-family:"Impact";
+    text-align: center;
+    background-color: chartreuse; 
+}
+
+hi#kudo{
+    font-family: "impact";
+    font-size: 60px;
+}

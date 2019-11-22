@@ -1,0 +1,25 @@
+
+h1{
+    color:cornsilk;
+    font-family:"Impact";
+    text-align: center;
+    background-color: black;
+}
+
+h3{
+  color:blue;  
+}
+
+h2{
+   color:black;
+    font-family:"Impact";
+    text-align: center;
+    background-color: lawngreen; 
+}
+
+body{
+    background-image : url("../images/images02.jfif");
+    background-attachment : fixed;
+/*    background-repeat:no-repeat;*/
+   
+   
