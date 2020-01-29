@@ -1,0 +1,69 @@
+div.title{
+    width:1000px;
+    height:40px;
+    background-color:yellow;
+    font-size:30px;
+    font-family:"Impact";
+    margin-bottom:20px;
+}
+
+div.waku{
+    vertical-align:top;
+    background-color:white;
+    width:1000px;
+    height:1070px;
+    font-size: 0;
+}
+
+div.menuitem{
+    vertical-align:top;
+    display:inline-block;
+    width:250px;
+    height:320px;
+    margin-right:50px;
+}
+
+div.menu1{
+    width:250px;
+    height:50px;
+    background-color:palegreen;
+    margin-bottom:20px;
+    font-size:35px;
+}
+
+div.menu2{
+    width:250px;
+    height:50px;
+    background-color:fuchsia;
+    margin-bottom:20px;
+    font-size:35px;
+}
+
+div.menu3{
+    width:250px;
+    height:50px;
+    background-color:khaki;
+    margin-right:20px;
+    font-size:26px;
+}
+
+div.images{
+    vertical-align:top;
+    width:700px;
+    height:320px;
+    display:inline-block;
+}
+
+div.image1{
+    vertical-align:top;
+    width:700px;
+    height:300px;
+}
+
+div.footer{
+    width:970px;
+    height:110px;
+    background-color:orange;
+    font-size:15px;
+    margin-top:20px;
+}
